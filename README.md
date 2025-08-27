@@ -14,6 +14,10 @@ This repository contains a simple demo application built using a three-tier arch
 
 ![alt text](Aws-3-Tier-Architecture.jpg)
 
+## Final Result
+
+![alt text](Final)
+
 The application follows the Basic three-tier architecture:
 
 1. **Frontend Tier**
@@ -99,5 +103,6 @@ This is a demo application and lacks several security features that would be nec
 - NACl not included
 
 This sample application was created as a demonstration of AWS three-tier architecture principles.
+
 
 
