@@ -4,7 +4,7 @@ This repository contains a simple "Hello World" application built using a three-
 
 ## Architecture Overview
 
-![alt text](Aws-3-tier-Architecture.png)
+![alt text](Aws-3-Tier-Architecture.jpg)
 
 The application follows the classic three-tier architecture:
 
@@ -150,3 +150,4 @@ This project is released under the MIT License.
 
 
 This sample application was created as a demonstration of AWS three-tier architecture principles.
+
