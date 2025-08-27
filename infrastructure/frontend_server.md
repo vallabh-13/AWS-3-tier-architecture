@@ -11,12 +11,14 @@ Replace the server block in /etc/nginx/nginx.conf with the content from the ngin
 
 ```
 #!/bin/bash
-sed -i 's/update-me/insert-your-backend-alb-url-here/g' /etc/nginx/nginx.conf
+sed -i 's/update-me/internal-demo-backend-ALB-1662229117.us-east-2.elb.amazonaws.com/g' /etc/nginx/nginx.conf
 sudo systemctl start nginx
 cd /usr/share/nginx/html
-sudo git clone https://github.com/ajitinamdar-tech/three-tier-architecture-aws.git
-mv /usr/share/nginx/html/three-tier-architecture-aws/frontend/* /usr/share/nginx/html/
-sudo rm -rf /usr/share/nginx/html/three-tier-architecture-aws
+sudo git clone https://github.com/vallabh-13/AWS-3-tier-architecture.git
+mv /usr/share/nginx/html/AWS-3-tier-architecture/frontend/* /usr/share/nginx/html/
+sudo rm -rf /usr/share/nginx/html/AWS-3-tier-architecture
+
 ```
+
 
 
