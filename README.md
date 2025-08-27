@@ -16,7 +16,7 @@ This repository contains a simple demo application built using a three-tier arch
 
 ## Final Result
 
-![alt text](Final Result.png)
+![alt text](Final-Result.png)
 
 The application follows the Basic three-tier architecture:
 
@@ -103,6 +103,7 @@ This is a demo application and lacks several security features that would be nec
 - NACl not included
 
 This sample application was created as a demonstration of AWS three-tier architecture principles.
+
 
 
 
