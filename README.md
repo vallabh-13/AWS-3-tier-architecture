@@ -1,6 +1,6 @@
 # First Cloud Project - AWS-3-Tier Application
 
-This repository contains a simple demo application built using a three-tier architecture on AWs. The application demonstrates the fundamental concepts of separating frontend, backend, and database components in a web application.
+This repository contains a simple demo application built using a three-tier architecture on AWS. The application demonstrates the fundamental concepts of separating frontend, backend, and database components in a web application.
 
 # What I learned from the project-
 
@@ -103,6 +103,7 @@ This is a demo application and lacks several security features that would be nec
 - NACl not included
 
 This sample application was created as a demonstration of AWS three-tier architecture principles.
+
 
 
 
